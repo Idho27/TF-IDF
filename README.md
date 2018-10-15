@@ -1,5 +1,5 @@
 # TF-IDF
-Tugas 1 PBA 
+Tugas 2 PBA 
 Ridho Imam Pratama-15523021
 Teknik Informatika
 Fakultas Teknologi Industri
